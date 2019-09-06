@@ -6,3 +6,5 @@ pj011117
 pj011117@ohio.edu
 # my answers 
 my answers are in answers.md
+# class information 
+CS 2400, section 107
